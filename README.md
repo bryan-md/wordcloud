@@ -1,6 +1,5 @@
 <a href="https://bdickinson.medium.com" />
 <img src="photos/biden-harris.png" />
-<img src="https://raw.githubusercontent.com/bryan-md/wordcloud/blob/main/photos/biden-harris.png?raw=true">(https://bdickinson.medium.com)
 
 # Generating Word Clouds with WordCloud
 
