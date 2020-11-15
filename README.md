@@ -1,4 +1,4 @@
-![Title Image](photos/biden-harris.png)
+![](photos/biden-harris.png)
 
 
 # Generating Word Clouds with WordCloud
