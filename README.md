@@ -1,4 +1,4 @@
-![Title Image](https://github.com/bryan-md/wordcloud-m/blob/main/photos/biden-harris.png)
+[Title Image](https://github.com/bryan-md/wordcloud-m/blob/main/photos/biden-harris.png)
 
 
 # Generating Word Clouds with WordCloud
