@@ -1,4 +1,4 @@
-![<img src="https://github.com/bryan-md/wordcloud-m/blob/main/photos/biden-harris.png">](https://bdickinson.medium.com/)
+![Title Image](https://github.com/bryan-md/wordcloud-m/blob/main/photos/biden-harris.png)
 
 
 # Generating Word Clouds with WordCloud
