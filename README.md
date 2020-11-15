@@ -1,5 +1,5 @@
 ![](photos/biden-harris.png)
-
+<img src="https://raw.githubusercontent.com/bryan-md/wordcloud-m/blob/main/images/biden.png?raw=true">
 
 # Generating Word Clouds with WordCloud
 
