@@ -12,6 +12,6 @@ This notebook walks through creating and customizing word clouds.
 Find the accompanying Medium article found [here](https://bdickinson.medium.com).
 
 
-<img src="images/biden.png" />
+<img src="images/biden.png"/>
 <img src="wordclouds/biden_wordcloud.png"/>
 
