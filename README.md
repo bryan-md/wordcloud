@@ -9,7 +9,7 @@ This notebook walks through creating and customizing word clouds.
 -  Use image-colors to color the word cloud
 - Change the size, font, and number of text inside the word cloud
 
-Find the accompanying Medium article found [here](https://bdickinson.medium.com).
+Find the accompanying Medium article found here. (https://bdickinson.medium.com)
 
 
 <img src="images/biden.PNG"/>
