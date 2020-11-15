@@ -1,5 +1,5 @@
-<a href="https://bdickinson.medium.com" />
-<img src="photos/biden-harris.png" />
+<a href="https://bdickinson.medium.com">
+<img src="photos/biden-harris.png" /> </a>
 
 # Generating Word Clouds with WordCloud
 
